@@ -1,0 +1,18 @@
+[
+  { "CN": "hostname1.local",
+    "OU": "DTPIS",
+    "E": "unix_admin@magnit.ru",
+    "O": "JSC Tander",
+    "L": "Krasnodar",
+    "C": "RU",
+    "SAN": ["hostname-1.local", "hostname-2.local"]
+  },
+    { "CN": "hostnam.local",
+    "OU": "DTPIS",
+    "E": "unix_admin@magnit.ru",
+    "O": "JSC Tander",
+    "L": "Krasnodar",
+    "C": "RU",
+    "SAN": ["hostname-1.local", "hostname-2.local"]
+  }
+]
